@@ -1,6 +1,6 @@
 apiVersion: v2
-name: helm-ajoj
-description: A Helm chart for Kubernetes
+name: p1
+description: Pipeline POC
 type: application
-version: 0.1.32
-appVersion: '26_200522122308'
+version: 0.0.1
+appVersion: '1'
