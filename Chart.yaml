@@ -2,5 +2,5 @@ apiVersion: v2
 name: p1
 description: Pipeline POC
 type: application
-version: 0.0.22
-appVersion: '44_200601054734'
+version: 0.0.24
+appVersion: '45_200602102538'
